@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Javier Diaz Rayo</h1>
 <h3 align="center">A developer from Spain</h3>
-# 💫 About Me:
+ 💫 About Me:<br>
 🔭 I’m looking for a job<br>🌱 I’m currently learning javascript,react,php<br><br>👨‍💻 All of my projects are available at [in my profile github](in my profile github)<br><br>📫 How to reach me sr.xavier5@gmail.com<br><br>⚡ Fun fact I'm a graphic designer to. I love videogames and music.
 
 
