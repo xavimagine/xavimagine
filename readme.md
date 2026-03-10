@@ -1,5 +1,4 @@
 
-![Header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Javier%20Diaz%20Rayo&fontSize=90)
 <h1 align="center">Hi 👋, I'm Javier Diaz Rayo</h1>
 <h3 align="center">A developer from Spain</h3>
  💫 About Me:<br>
