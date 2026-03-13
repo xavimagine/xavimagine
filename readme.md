@@ -25,5 +25,5 @@ Hi 👋, I'm Javier Diaz Rayo a developer and graphic designer from Spain.I’m 
 
 
 ### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](TU_LINK_DE_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-d%C3%ADaz-rayo/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:j.diazrayo91@gmail.com)
