@@ -23,12 +23,6 @@ Hi 👋, I'm Javier Diaz Rayo a developer and graphic designer from Spain.I’m 
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=xavimagine&theme=gitdimmed&no-frame=true&no-bg=false&margin-w=4)
-
-[![](https://visitcount.itsvg.in/api?id=xavimagine&icon=9&color=7)](https://visitcount.itsvg.in)
-
-
 
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](TU_LINK_DE_LINKEDIN)
